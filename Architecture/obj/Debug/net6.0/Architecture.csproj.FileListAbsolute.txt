@@ -1,0 +1,15 @@
+C:\Users\wpust\source\repos\Architecture\Architecture\bin\Debug\net6.0\Architecture.exe
+C:\Users\wpust\source\repos\Architecture\Architecture\bin\Debug\net6.0\Architecture.deps.json
+C:\Users\wpust\source\repos\Architecture\Architecture\bin\Debug\net6.0\Architecture.runtimeconfig.json
+C:\Users\wpust\source\repos\Architecture\Architecture\bin\Debug\net6.0\Architecture.dll
+C:\Users\wpust\source\repos\Architecture\Architecture\bin\Debug\net6.0\Architecture.pdb
+C:\Users\wpust\source\repos\Architecture\Architecture\obj\Debug\net6.0\Architecture.csproj.AssemblyReference.cache
+C:\Users\wpust\source\repos\Architecture\Architecture\obj\Debug\net6.0\Architecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wpust\source\repos\Architecture\Architecture\obj\Debug\net6.0\Architecture.AssemblyInfoInputs.cache
+C:\Users\wpust\source\repos\Architecture\Architecture\obj\Debug\net6.0\Architecture.AssemblyInfo.cs
+C:\Users\wpust\source\repos\Architecture\Architecture\obj\Debug\net6.0\Architecture.csproj.CoreCompileInputs.cache
+C:\Users\wpust\source\repos\Architecture\Architecture\obj\Debug\net6.0\Architecture.dll
+C:\Users\wpust\source\repos\Architecture\Architecture\obj\Debug\net6.0\refint\Architecture.dll
+C:\Users\wpust\source\repos\Architecture\Architecture\obj\Debug\net6.0\Architecture.pdb
+C:\Users\wpust\source\repos\Architecture\Architecture\obj\Debug\net6.0\Architecture.genruntimeconfig.cache
+C:\Users\wpust\source\repos\Architecture\Architecture\obj\Debug\net6.0\ref\Architecture.dll
